@@ -1,17 +1,10 @@
-## *stanCode SC101* project
+# *stanCode SC101* project
+
+## Greetings
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of stanCode SC101 course. (more about [stanCode](https://stancode.tw/))
+Include 5 projects range from mini-game to recursion, please find detail below:
 
-Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1LvCFxM2lTWIfwktZI7ZRumlOAhz3bky3?usp=sharing)*
+## Projects
+### Breakout game
 
-## Project Source Codes:
-* [Hangman_Game](https://github.com/samfang9527/SC101/blob/main/sam_python/hangman_game/hangman.py)
-  * python semantics & syntax
-* [Pedestrian Removing Application](https://github.com/samfang9527/SC101/blob/main/sam_python/my_photoshop/stanCodoshop.py)
-  * image processing
-* [Breakout Game](https://github.com/samfang9527/SC101/blob/main/sam_python/break_out_game/breakoutgraphics.py)
-  * animation & game designing
-* [Name Popularity Searching System](https://github.com/samfang9527/SC101/blob/main/sam_python/name_searching_system/babygraphics.py)
-  * data structure
-* [Boggle Game Solver](https://github.com/samfang9527/SC101/blob/main/sam_python/boggle_game_solver/boggle.py)
-  * recursive functions
