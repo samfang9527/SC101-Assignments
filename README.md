@@ -7,4 +7,8 @@ Include 5 projects range from mini-game to recursion, please find detail below:
 
 ## Projects
 ### Breakout game
+ - Please find the code at: [Link](https://github.com/samfang9527/SC101-Assignments/tree/main/Breakout_game)
+ - This is a simple breakout game build by campy packages, enjoy it!
 
+### Image processing
+ - 
