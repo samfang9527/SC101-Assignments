@@ -24,7 +24,7 @@ Include 5 projects range from mini-game to recursion.
  - This is a simple web crawler that can print out the numbers of male and female newborns at 1990s, 2000s, 2010s in USA.
 
 ### Babynames
- - Demo video: [Link]()
+ - Demo video: [Link](https://youtu.be/n4mBS4hVTko)
  - Please find the code at: [Link](https://github.com/samfang9527/SC101-Assignments/tree/main/Babynames)
  - This is a full-stack project that user can type any english name to show how popular this name is from 1900s to 2010s.
  - Please run babynames.py to start this program.
